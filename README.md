@@ -1,5 +1,5 @@
 # polish-programmer-dvorak
-Polish programmer keyboard layout
+Polish programmer keyboard layout for ISO-104 keyboard with flat Enter key.
 
 ## Why?
 Because Windows 10 doesn't have support for it.  
